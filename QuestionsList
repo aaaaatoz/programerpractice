@@ -1,0 +1,6 @@
+Questions list:
+text and string handling
+	- input a string then revert it and print it to stdout
+	- Pig Latin https://en.wikipedia.org/wiki/Pig_Latin
+	- counter the vow letters
+	- check if the input string is a palindrome
