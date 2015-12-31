@@ -1,4 +1,5 @@
 Questions list:
+
 text and string handling
 	- input a string then revert it and print it to stdout
 	- Pig Latin https://en.wikipedia.org/wiki/Pig_Latin
@@ -6,3 +7,7 @@ text and string handling
 	- check if the input string is a palindrome
 	- how many three digital number with no duplicated digital
 	- 3 digital Narcissistic number
+	- list all perfect number less than 10000
+	- list Amicable Pair less 100000
+	- list Pythagorean triple less than 1000
+
